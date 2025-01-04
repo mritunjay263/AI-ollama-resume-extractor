@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+chromadb
+PyPDF2
+python-docx
+unstructured
+groq
+dotenv
